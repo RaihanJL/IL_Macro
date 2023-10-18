@@ -1,7 +1,7 @@
 import Footercomponent from "../Component/Fragments/Footercomponent";
 import Navbarcomponent from "../Component/Fragments/Navbarwisata";
 import Pemanduimg from "../assets/img/pemanduimg.png";
-import Pemanduimg3 from "../assets/img/pemandu/p3.jpg";
+import Pemanduimg3 from "../assets/img/pemandu/p2.jpg";
 import Icontiktok from "/images/GambarFooter/icontiktok.png";
 import Iconfb from "/images/GambarFooter/iconfb.png";
 import Iconig from "/images/GambarFooter/iconig.png";
@@ -102,7 +102,7 @@ const Profilpemandu2 = () => {
                 </Link>
               </div>
             </div>
-            <Link to="#">
+            <Link to="https://wa.me/+6282214536800">
               <Button>Hubungi saya</Button>
             </Link>
           </div>

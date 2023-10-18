@@ -125,7 +125,7 @@ const Datapemandu = () => {
           >
             <div className="col-4 ">
               <div className="img-pemandu  ">
-                <img className="rounded-2" src={P2} alt="ika" />
+                <img className="rounded-2" src={P3} alt="ika" />
               </div>
             </div>
             <div className="col-8 ">
@@ -174,7 +174,7 @@ const Datapemandu = () => {
             </div>
             <div className="col-4 px-5">
               <div className="img-pemandu  ">
-                <img className="rounded-2" src={P3} alt="mila" />
+                <img className="rounded-2" src={P2} alt="mila" />
               </div>
             </div>
           </div>

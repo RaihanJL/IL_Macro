@@ -102,7 +102,7 @@ const Profilpemandu3 = () => {
                 </Link>
               </div>
             </div>
-            <Link to="#">
+            <Link to="https://wa.me/+6282214536800">
               <Button>Hubungi saya</Button>
             </Link>
           </div>
