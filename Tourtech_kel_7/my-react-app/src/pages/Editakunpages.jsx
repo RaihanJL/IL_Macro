@@ -47,7 +47,7 @@ const Editakunpages = () => {
             <div className="d-flex gap-5">
               <div className="kotak col-md-4 text-center text-gray mt-5  ms-2 ">
                 <div className="mb-4">
-                  <div className="iconeditimg"> 
+                  <div className="iconeditimg">
                     <p>+</p>
                   </div>
                   <img
@@ -117,7 +117,7 @@ const Editakunpages = () => {
                 marginLeft: "860px",
               }}
             >
-              <Link to="#" className="button ms-auto rounded-2">
+              <Link to="/akunsaya" className="button ms-auto rounded-2">
                 {" "}
                 <button class="ms-auto rounded-2">Simpan</button>
               </Link>
