@@ -3,6 +3,7 @@ import Navbarwisata from "../Component/Fragments/Navbarwisata";
 import Bgimage from "../assets/img/pemandu/BgAkun.png";
 import image1 from "../assets/img/pemandu/aldi.jpeg";
 import image2 from "../assets/img/pemandu/scrollleft.png";
+import Footercomponent from "../Component/Fragments/Footercomponent";
 
 const Editakunpages = () => {
   return (
@@ -124,6 +125,7 @@ const Editakunpages = () => {
             </div>
           </div>
         </div>
+        <Footercomponent />
       </div>
     </>
   );
