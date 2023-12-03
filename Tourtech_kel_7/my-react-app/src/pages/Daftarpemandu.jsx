@@ -1,6 +1,6 @@
 import Navbarcomponent from "../Component/Fragments/Navbarwisata";
 import Footercomponent from "../Component/Fragments/Footercomponent";
-import Daftarpemanduimg from "../assets/img/pemandu/Daftarpemanduimg.png";
+import Gambardaftarpemandu from "/images/daftarpemanduimg.png"
 
 const Daftarpemandu = () => {
   return (
@@ -9,7 +9,7 @@ const Daftarpemandu = () => {
         <div
           className="bg-image"
           style={{
-            backgroundImage: `url(${Daftarpemanduimg})`,
+            backgroundImage: `url(${Gambardaftarpemandu})`,
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",
